@@ -1,0 +1,48 @@
+
+
+
+
+h1{
+text-align: center; 
+border: 5px solid blue;
+height: 100px;
+font-size: 48;
+background-color: lightgray;
+
+}
+body{
+	background-color: beige;
+}
+
+h2{
+text-align: center; 
+border: 3px blue;
+background-color: lightblue;
+height: 50px;
+}
+
+table{
+border: 10px solid blue;
+width: 100%;
+border-radius: 2px;
+}
+
+th{
+	width: 50%;
+}
+
+img{
+height: 300px;
+width: 200px;
+}
+
+
+.homeCalc{
+background-image: url("calctext.jpg");
+repeat: no-repeat;
+}
+
+.homeGeo{
+background: red;
+color: white;
+}
